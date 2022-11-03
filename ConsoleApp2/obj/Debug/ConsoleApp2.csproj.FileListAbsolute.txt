@@ -1,0 +1,14 @@
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Hpr_PR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Dropbox\Script\ConsoleApp2_hipot\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
